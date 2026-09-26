@@ -6,9 +6,9 @@ Visit [platypus.page](https://platypus.page) for product information and [the se
 
 ## Downloads
 
-Public installers will appear on the [Releases page](https://github.com/RidingWavesIO/platypus-releases/releases) when available. The first release is being prepared; no public installer has been published yet.
+[Download Platypus 0.1.0-beta.1](https://github.com/RidingWavesIO/platypus-releases/releases/tag/v0.1.0-beta.1) for **macOS Apple Silicon** or **Windows x64**. Ubuntu downloads are not yet available.
 
-Release assets will include installation packages, SHA-256 checksums and version-specific release notes. Download installers from the official website or this repository's Releases page.
+The Mac DMG and update ZIP are signed and notarized. The Windows EXE is an unsigned beta; follow the release notes and do not disable security controls. Each release includes a SHA-256 checksum manifest. Download installers from the official website or this repository's [Releases page](https://github.com/RidingWavesIO/platypus-releases/releases).
 
 ## Support
 
