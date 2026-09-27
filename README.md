@@ -6,7 +6,7 @@ Visit [platypus.page](https://platypus.page) for product information and [the se
 
 ## Downloads
 
-[Download Platypus 0.1.0-beta.1](https://github.com/RidingWavesIO/platypus-releases/releases/tag/v0.1.0-beta.1) for **macOS Apple Silicon** or **Windows x64**. Ubuntu downloads are not yet available.
+[Download Platypus 0.1.0-beta.1](https://github.com/RidingWavesIO/platypus-releases/releases/tag/v0.1.0-beta.1) for **macOS Apple Silicon**, **Windows x64**, or **Ubuntu 22.04 / 24.04 x64**. Ubuntu uses an AppImage; follow the setup guide for FUSE and the one-time Ubuntu 24.04 AppArmor profile.
 
 The Mac DMG and update ZIP are signed and notarized. The Windows EXE is an unsigned beta; follow the release notes and do not disable security controls. Each release includes a SHA-256 checksum manifest. Download installers from the official website or this repository's [Releases page](https://github.com/RidingWavesIO/platypus-releases/releases).
 
